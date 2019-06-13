@@ -18,6 +18,7 @@ public class countZerosOnes {
 	public static void main(String[] args) {
 		int count = countZerosOnes.countZerosOrOnes("00mubeen", 0);
 		System.out.println(count);
+		System.out.println(count);
 
 	}
 
